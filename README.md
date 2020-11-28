@@ -1,4 +1,4 @@
-# RESTRouting
+# RESTful Routing
 
 This project shows RESTful routing on backend to dynamically show and edit information on the frontend. 
 
