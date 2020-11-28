@@ -13,6 +13,5 @@ Features currently capable:
 -adding, viewing, updating and deleting new information received
 
 Future updates may include:
-
--hosting on an actual URL
--stylization
+* hosting on an actual URL
+* stylization
