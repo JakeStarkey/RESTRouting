@@ -12,6 +12,6 @@ Features currently capable:
 * Dynamic information based on requests sent to server
 * adding, viewing, updating and deleting new information received
 
-Future updates may include:
-* hosting on an actual URL
-* stylization
+### One to Many Directory Relationships
+
+This update includes new one to many relationships with the new model 'farm' and the existing model 'product'. 
